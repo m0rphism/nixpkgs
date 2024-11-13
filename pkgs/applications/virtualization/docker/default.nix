@@ -135,7 +135,7 @@ rec {
         (fetchpatch {
           name = "dockerd-rootless-make-etc-var-run-cdi-available.patch";
           url = "https://github.com/moby/moby/pull/48541.patch";
-          hash = "sha256-bDbNeNGR5zSVJvJEz1fgehx9J0EHq/I5n/xyctaeQSE=";
+          hash = "sha256-T+WqRj4RvNjLz6AUfu9vjUzquqdibQ3X/YvOKF5NX3o=";
         })
       ];
 
